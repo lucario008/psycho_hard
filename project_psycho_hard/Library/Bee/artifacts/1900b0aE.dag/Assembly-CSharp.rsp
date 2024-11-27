@@ -359,6 +359,7 @@
 "Assets/Scripts/DeviceOperator.cs"
 "Assets/Scripts/FPSInput.cs"
 "Assets/Scripts/IOperable.cs"
+"Assets/Scripts/MenuInicial.cs"
 "Assets/Scripts/menuPausa.cs"
 "Assets/Scripts/MouseLook.cs"
 "Assets/Scripts/NoHayNada.cs"

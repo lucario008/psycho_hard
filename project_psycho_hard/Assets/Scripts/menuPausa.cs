@@ -6,6 +6,9 @@ public class menuPausa : MonoBehaviour
 {
 
     public GameObject ObjetoMenuPausa;
+    public GameObject menuInicio;
+    public GameObject menuOpciones;
+    
 
     public bool Pausa = false; 
     public GameObject cameraObjectX;
@@ -34,6 +37,8 @@ public class menuPausa : MonoBehaviour
         Pausa = true;
 
         ObjetoMenuPausa.SetActive(true);
+        menuInicio.SetActive(true);
+        menuOpciones.SetActive(false);
 
             Time.timeScale = 0;
             Cursor.visible = true; 
@@ -69,5 +74,15 @@ public class menuPausa : MonoBehaviour
 
      public void Continuar (){
         Resumir();
+    }
+
+    public void Opciones (){
+        menuOpciones.SetActive (true);
+        menuInicio.SetActive (false);
+    }
+
+    public void Cerrar (){
+        menuOpciones.SetActive(false);
+        menuInicio.SetActive(true);
     }
 }
