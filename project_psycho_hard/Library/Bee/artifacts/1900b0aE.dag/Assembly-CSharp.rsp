@@ -364,6 +364,7 @@
 "Assets/Scripts/MENÚS/menuPausa.cs"
 "Assets/Scripts/NoHayNada.cs"
 "Assets/Scripts/OpeningDoor.cs"
+"Assets/Scripts/Persistente.cs"
 "Assets/Scripts/PERSONAJE/DeviceOperator.cs"
 "Assets/Scripts/PERSONAJE/FPSInput.cs"
 "Assets/Scripts/PERSONAJE/MouseLook.cs"

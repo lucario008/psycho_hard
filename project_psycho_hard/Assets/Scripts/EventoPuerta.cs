@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EventoPuerta : MonoBehaviour
 {
@@ -30,6 +31,7 @@ public class EventoPuerta : MonoBehaviour
             Debug.Log("Player ha salido del trigger.");
   
             gameObject.SetActive(false); // Desactiva el objeto
+            SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);
         
     }
 }
