@@ -72,6 +72,8 @@ Thumbs.db
 .env.*.local
 
 # Visual Studio Code
+*.vs
+*.vsconfig
 .vscode/
 *.code-workspace
 
