@@ -432,8 +432,8 @@
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
-      "PayloadLength": 63,
-      "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -444,7 +444,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 263,
+      "PayloadOffset": 250,
       "PayloadLength": 44377,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -457,9 +457,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 44734,
-      "PayloadLength": 76,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+      "PayloadOffset": 44721,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2"
@@ -2311,7 +2311,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 44913,
+      "PayloadOffset": 44887,
       "PayloadLength": 7355,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -2512,9 +2512,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 52373,
-      "PayloadLength": 63,
-      "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+      "PayloadOffset": 52347,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2525,7 +2525,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 52521,
+      "PayloadOffset": 52482,
       "PayloadLength": 38905,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -2538,9 +2538,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 91512,
-      "PayloadLength": 76,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+      "PayloadOffset": 91473,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2"
@@ -2979,7 +2979,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 91683,
+      "PayloadOffset": 91631,
       "PayloadLength": 7893,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -3192,9 +3192,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 99689,
-      "PayloadLength": 63,
-      "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+      "PayloadOffset": 99637,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3205,7 +3205,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 99845,
+      "PayloadOffset": 99780,
       "PayloadLength": 50437,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -3218,9 +3218,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 150376,
-      "PayloadLength": 76,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+      "PayloadOffset": 150311,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2"
@@ -3678,7 +3678,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 150555,
+      "PayloadOffset": 150477,
       "PayloadLength": 7521,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -3883,9 +3883,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 158181,
-      "PayloadLength": 63,
-      "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+      "PayloadOffset": 158103,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -3896,7 +3896,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp",
       "DisplayName": "Writing UnityEditor.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 158329,
+      "PayloadOffset": 158238,
       "PayloadLength": 36047,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -3909,9 +3909,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2",
       "DisplayName": "Writing UnityEditor.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 194462,
-      "PayloadLength": 76,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+      "PayloadOffset": 194371,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2"
@@ -4259,7 +4259,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 194633,
+      "PayloadOffset": 194529,
       "PayloadLength": 8219,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4480,9 +4480,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 202972,
-      "PayloadLength": 63,
-      "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+      "PayloadOffset": 202868,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -4493,7 +4493,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 203135,
+      "PayloadOffset": 203018,
       "PayloadLength": 33501,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -4506,9 +4506,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 236737,
-      "PayloadLength": 76,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+      "PayloadOffset": 236620,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2"
@@ -4807,7 +4807,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 236923,
+      "PayloadOffset": 236793,
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -5030,9 +5030,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 245350,
-      "PayloadLength": 63,
-      "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+      "PayloadOffset": 245220,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -5043,7 +5043,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 245525,
+      "PayloadOffset": 245382,
       "PayloadLength": 36245,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -5056,9 +5056,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 281883,
-      "PayloadLength": 76,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+      "PayloadOffset": 281740,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2"
@@ -5368,7 +5368,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 282081,
+      "PayloadOffset": 281925,
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -5591,9 +5591,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 290490,
-      "PayloadLength": 63,
-      "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+      "PayloadOffset": 290334,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -5604,7 +5604,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 290647,
+      "PayloadOffset": 290478,
       "PayloadLength": 64650,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -5617,9 +5617,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 355392,
-      "PayloadLength": 76,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+      "PayloadOffset": 355223,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2"
@@ -6195,7 +6195,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 355572,
+      "PayloadOffset": 355390,
       "PayloadLength": 7844,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -9051,9 +9051,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Rider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 573513,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 363343,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -9064,7 +9070,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 573665,
+=======
+      "PayloadOffset": 363482,
+>>>>>>> main
       "PayloadLength": 35863,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -9077,9 +9087,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2",
       "DisplayName": "Writing Unity.Rider.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 609618,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 399435,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2"
@@ -9388,7 +9404,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 609793,
+=======
+      "PayloadOffset": 399597,
+>>>>>>> main
       "PayloadLength": 7757,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -9599,9 +9619,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Settings.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 617662,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 407466,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -9612,7 +9638,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 617817,
+=======
+      "PayloadOffset": 407608,
+>>>>>>> main
       "PayloadLength": 34208,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -9625,9 +9655,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2",
       "DisplayName": "Writing Unity.Settings.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 652118,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 441909,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2"
@@ -9917,7 +9953,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 652296,
+=======
+      "PayloadOffset": 442074,
+>>>>>>> main
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -10140,9 +10180,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 660733,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 450511,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -10153,7 +10199,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 660918,
+=======
+      "PayloadOffset": 450683,
+>>>>>>> main
       "PayloadLength": 34967,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -10166,9 +10216,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 696008,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 485773,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2"
@@ -10460,7 +10516,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 696216,
+=======
+      "PayloadOffset": 485968,
+>>>>>>> main
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -10683,9 +10743,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 704663,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 494415,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -10696,7 +10762,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 704858,
+=======
+      "PayloadOffset": 494597,
+>>>>>>> main
       "PayloadLength": 33751,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -10709,9 +10779,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 738742,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 528481,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2"
@@ -10992,7 +11068,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 738960,
+=======
+      "PayloadOffset": 528686,
+>>>>>>> main
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -11215,9 +11295,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 747363,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 537089,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -11228,7 +11314,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 747514,
+=======
+      "PayloadOffset": 537227,
+>>>>>>> main
       "PayloadLength": 37022,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -11241,9 +11331,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 784625,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 574338,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2"
@@ -11570,7 +11666,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 784799,
+=======
+      "PayloadOffset": 574499,
+>>>>>>> main
       "PayloadLength": 8045,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -11787,9 +11887,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 792949,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 582649,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -11800,7 +11906,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 793097,
+=======
+      "PayloadOffset": 582784,
+>>>>>>> main
       "PayloadLength": 38091,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -11813,9 +11923,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 831274,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 620961,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2"
@@ -12156,7 +12272,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 831445,
+=======
+      "PayloadOffset": 621119,
+>>>>>>> main
       "PayloadLength": 8045,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -12373,9 +12493,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VSCode.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 839600,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 629274,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -12386,7 +12512,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp",
       "DisplayName": "Writing Unity.VSCode.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 839753,
+=======
+      "PayloadOffset": 629414,
+>>>>>>> main
       "PayloadLength": 33861,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -12399,9 +12529,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2",
       "DisplayName": "Writing Unity.VSCode.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 873705,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 663366,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2"
@@ -12686,7 +12822,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VSCode.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 873881,
+=======
+      "PayloadOffset": 663529,
+>>>>>>> main
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -12909,9 +13049,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 882293,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 671941,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -12922,7 +13068,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 882453,
+=======
+      "PayloadOffset": 672088,
+>>>>>>> main
       "PayloadLength": 85586,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -12935,9 +13085,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 968137,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 757772,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2"
@@ -13634,7 +13790,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 968320,
+=======
+      "PayloadOffset": 757942,
+>>>>>>> main
       "PayloadLength": 8045,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -13851,9 +14011,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 976481,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 766103,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -13864,7 +14030,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 976640,
+=======
+      "PayloadOffset": 766249,
+>>>>>>> main
       "PayloadLength": 36146,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -13877,9 +14047,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1012883,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 802492,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2"
@@ -14193,7 +14369,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1013065,
+=======
+      "PayloadOffset": 802661,
+>>>>>>> main
       "PayloadLength": 7757,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -14404,9 +14584,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1020937,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 810533,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -14417,7 +14603,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1021095,
+=======
+      "PayloadOffset": 810678,
+>>>>>>> main
       "PayloadLength": 33298,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -14430,9 +14620,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1054489,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 844072,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2"
@@ -14730,7 +14926,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1054670,
+=======
+      "PayloadOffset": 844240,
+>>>>>>> main
       "PayloadLength": 8380,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -15624,9 +15824,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1113019,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 852746,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -15637,7 +15843,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1113188,
+=======
+      "PayloadOffset": 852902,
+>>>>>>> main
       "PayloadLength": 37501,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -15650,9 +15860,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1150796,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 890510,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2"
@@ -16030,7 +16246,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1150988,
+=======
+      "PayloadOffset": 890689,
+>>>>>>> main
       "PayloadLength": 8076,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -16247,9 +16467,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1159179,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 898880,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -16260,7 +16486,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1159337,
+=======
+      "PayloadOffset": 899025,
+>>>>>>> main
       "PayloadLength": 37615,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -16273,9 +16503,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1197048,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 936736,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -16620,7 +16856,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1197229,
+=======
+      "PayloadOffset": 936904,
+>>>>>>> main
       "PayloadLength": 8374,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -16845,9 +17085,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1205715,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 945390,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -16858,7 +17104,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1205870,
+=======
+      "PayloadOffset": 945532,
+>>>>>>> main
       "PayloadLength": 57230,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -16871,9 +17121,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1263193,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 1002855,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2"
@@ -17442,7 +17698,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1263371,
+=======
+      "PayloadOffset": 1003020,
+>>>>>>> main
       "PayloadLength": 8371,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -17667,9 +17927,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1271866,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 1011515,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -17680,7 +17946,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1272033,
+=======
+      "PayloadOffset": 1011669,
+>>>>>>> main
       "PayloadLength": 89698,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -17693,9 +17963,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1361836,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 1101472,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2"
@@ -18462,7 +18738,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1362026,
+=======
+      "PayloadOffset": 1101649,
+>>>>>>> main
       "PayloadLength": 8383,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -18687,9 +18967,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1370526,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 1110149,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -18700,7 +18986,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1370686,
+=======
+      "PayloadOffset": 1110296,
+>>>>>>> main
       "PayloadLength": 80889,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -18713,9 +19003,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1451673,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 1191283,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2"
@@ -19387,7 +19683,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1451856,
+=======
+      "PayloadOffset": 1191453,
+>>>>>>> main
       "PayloadLength": 8133,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -20405,9 +20705,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1519224,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 1199710,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -20418,7 +20724,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1519391,
+=======
+      "PayloadOffset": 1199864,
+>>>>>>> main
       "PayloadLength": 53556,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -20431,9 +20741,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1573052,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 1253525,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2"
@@ -20921,7 +21237,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1573242,
+=======
+      "PayloadOffset": 1253702,
+>>>>>>> main
       "PayloadLength": 8566,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -21150,9 +21470,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1581926,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 1262386,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -21163,7 +21489,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1582087,
+=======
+      "PayloadOffset": 1262534,
+>>>>>>> main
       "PayloadLength": 35268,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -21176,9 +21506,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1617454,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 1297901,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2"
@@ -21481,7 +21817,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1617638,
+=======
+      "PayloadOffset": 1298072,
+>>>>>>> main
       "PayloadLength": 8221,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -22257,9 +22597,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1668377,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 1306429,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -22270,7 +22616,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1668556,
+=======
+      "PayloadOffset": 1306595,
+>>>>>>> main
       "PayloadLength": 34761,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -22283,9 +22633,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1703434,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 1341473,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2"
@@ -22618,7 +22974,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1703636,
+=======
+      "PayloadOffset": 1341662,
+>>>>>>> main
       "PayloadLength": 8750,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -22851,9 +23211,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1712511,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 1350537,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -22864,7 +23230,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1712679,
+=======
+      "PayloadOffset": 1350692,
+>>>>>>> main
       "PayloadLength": 41530,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -22877,9 +23247,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1754315,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 1392328,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2"
@@ -23234,7 +23610,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1754506,
+=======
+      "PayloadOffset": 1392506,
+>>>>>>> main
       "PayloadLength": 8750,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -23467,9 +23847,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1763382,
       "PayloadLength": 63,
       "PayloadDebugContentSnippet": "C:\\Users\\lunae\\Documents\\GitHu",
+=======
+      "PayloadOffset": 1401382,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "D:\\Trabajos\\GitHub\\psycho_hard",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -23480,7 +23866,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1763551,
+=======
+      "PayloadOffset": 1401538,
+>>>>>>> main
       "PayloadLength": 33742,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -23493,9 +23883,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1797400,
       "PayloadLength": 76,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\lunae\\Docum",
+=======
+      "PayloadOffset": 1435387,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"D:\\Trabajos\\GitHub\\p",
+>>>>>>> main
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2"
@@ -23803,7 +24199,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1797592,
+=======
+      "PayloadOffset": 1435566,
+>>>>>>> main
       "PayloadLength": 8846,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -25955,7 +26355,11 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
+<<<<<<< HEAD
       "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.ProBuilder.Csg.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.ProBuilder.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.ProBuilder.KdTree.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.ProBuilder.Stl.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"C:\\Users\\lunae\\Documents\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+=======
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:\\Trabajos\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"D:\\Trabajos\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"D:\\Trabajos\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"D:\\Trabajos\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"D:\\Trabajos\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"D:\\Trabajos\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"D:\\Trabajos\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"D:\\Trabajos\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"D:\\Trabajos\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"D:\\Trabajos\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.45f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"D:\\Trabajos\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\ScriptAssemblies\" -s=\"D:\\Trabajos\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"D:\\Trabajos\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"D:\\Trabajos\\GitHub\\psycho_hard\\project_psycho_hard\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+>>>>>>> main
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -26275,6 +26679,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
-  "PayloadsFile": "C:/Users/lunae/Documents/GitHub/psycho_hard/project_psycho_hard/Library/Bee/1900b0aE.dag.payloads",
+  "PayloadsFile": "D:/Trabajos/GitHub/psycho_hard/project_psycho_hard/Library/Bee/1900b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }
