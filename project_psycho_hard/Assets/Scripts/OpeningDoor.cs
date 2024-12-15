@@ -1,11 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Audio;
 
 public class OpeningDoor : MonoBehaviour, IOperable
 {
     private Animator anim;
     private bool open;
+    public AudioSource puerta;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,5 +21,6 @@ public class OpeningDoor : MonoBehaviour, IOperable
         Debug.Log ("Ejecutando puerta");
         open = !open;
         anim.SetBool("Open", open);
+        puerta.Play();
     }
 }
