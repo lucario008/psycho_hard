@@ -13,16 +13,20 @@ public class VolumeController : MonoBehaviour
     [SerializeField] public Slider sliderVolumenMusic;
     [SerializeField] public Slider sliderGeneral;
 
-    [SerializeField] public Toggle toggleMute;
+    [SerializeField] public Toggle toggleMuteAll;
+    [SerializeField] public Toggle toggleMuteSFX;
+    [SerializeField] public Toggle toggleMuteMusic;
 
     private bool isMuted = false;
 
         void Start()
     {
-        if (toggleMute != null)
+        if (toggleMuteAll != null)
         {
             // Configurar el evento de cambio del toggle
-            toggleMute.onValueChanged.AddListener(ToggleMute);
+            toggleMuteAll.onValueChanged.AddListener(ToggleMuteAll);
+            toggleMuteSFX.onValueChanged.AddListener(ToggleMuteSFX);
+            toggleMuteMusic.onValueChanged.AddListener(ToggleMuteMusic);
         }
     }
 
@@ -41,7 +45,7 @@ public class VolumeController : MonoBehaviour
        AudioMixer.SetFloat( "VolumeGeneral", (sliderGeneral.value * 10));
     }
 
-    public void ToggleMute(bool mute)
+    public void ToggleMuteAll (bool mute)
     {
         isMuted = mute;
 
@@ -53,6 +57,36 @@ public class VolumeController : MonoBehaviour
         {
             // Restaura el volumen general
             AudioMixer.SetFloat("VolumeGeneral", sliderGeneral.value * 10);
+        }
+    }
+
+     public void ToggleMuteSFX (bool mute)
+    {
+        isMuted = mute;
+
+        if (isMuted)
+        {
+            AudioMixer.SetFloat("VolumeSFX", -80f);  // Silencia
+        }
+        else
+        {
+            // Restaura el volumen general
+            AudioMixer.SetFloat("VolumeSFX", sliderGeneral.value * 10);
+        }
+    }
+
+     public void ToggleMuteMusic (bool mute)
+    {
+        isMuted = mute;
+
+        if (isMuted)
+        {
+            AudioMixer.SetFloat("VolumeMusic", -80f);  // Silencia
+        }
+        else
+        {
+            // Restaura el volumen general
+            AudioMixer.SetFloat("VolumeMusic", sliderGeneral.value * 10);
         }
     }
 }
