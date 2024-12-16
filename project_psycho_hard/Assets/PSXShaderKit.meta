@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:project_psycho_hard/Assets/PSXShaderKit.meta
 guid: e9a55b24b2ca85942a165969a5ab04f4
+========
+guid: f4c7c14d9f47dbe43978cb2c37797c88
+>>>>>>>> modelos_y_funciones:project_psycho_hard/Assets/Modelos.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

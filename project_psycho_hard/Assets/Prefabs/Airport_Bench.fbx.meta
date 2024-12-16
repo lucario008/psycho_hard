@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:project_psycho_hard/Assets/Prefabs/Airport_Bench.fbx.meta
 guid: 50b500c100cf9d241bf6227f8f00bd54
 ModelImporter:
   serializedVersion: 21300
+========
+guid: dd473ccbd63be6b498b14c3e13e128d7
+ModelImporter:
+  serializedVersion: 22200
+>>>>>>>> modelos_y_funciones:project_psycho_hard/Assets/Modelos/carro para unit.dae.meta
   internalIDToNameTable: []
   externalObjects: {}
   materials:
@@ -14,7 +20,11 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+<<<<<<<< HEAD:project_psycho_hard/Assets/Prefabs/Airport_Bench.fbx.meta
     removeConstantScaleCurves: 1
+========
+    removeConstantScaleCurves: 0
+>>>>>>>> modelos_y_funciones:project_psycho_hard/Assets/Modelos/carro para unit.dae.meta
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -40,6 +50,7 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -67,6 +78,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -99,6 +111,10 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+<<<<<<<< HEAD:project_psycho_hard/Assets/Prefabs/Airport_Bench.fbx.meta
+========
+  importBlendShapeDeformPercent: 1
+>>>>>>>> modelos_y_funciones:project_psycho_hard/Assets/Modelos/carro para unit.dae.meta
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 

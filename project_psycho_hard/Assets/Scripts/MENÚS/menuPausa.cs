@@ -8,6 +8,9 @@ public class menuPausa : MonoBehaviour
     public GameObject ObjetoMenuPausa;
     public GameObject menuInicio;
     public GameObject menuOpciones;
+    public GameObject menuControles; 
+    public GameObject menuAudio; 
+    public GameObject menuCreditos; 
     
 
     public bool Pausa = false; 
@@ -39,10 +42,14 @@ public class menuPausa : MonoBehaviour
         ObjetoMenuPausa.SetActive(true);
         menuInicio.SetActive(true);
         menuOpciones.SetActive(false);
-
+        menuControles.SetActive(false);
+        menuAudio.SetActive(false);
+        menuCreditos.SetActive(false);
             Time.timeScale = 0;
             Cursor.visible = true; 
             Cursor.lockState = CursorLockMode.None;
+
+            AudioListener.pause = true; 
 
             if (cameraObjectX != null){
                 cameraObjectX.GetComponent<MouseLook>().enabled = false;
@@ -60,6 +67,8 @@ public class menuPausa : MonoBehaviour
         Time.timeScale = 1;  
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
+
+        AudioListener.pause = false; 
 
          if (cameraObjectX != null) {
             cameraObjectX.GetComponent<MouseLook>().enabled = true;
@@ -81,7 +90,35 @@ public class menuPausa : MonoBehaviour
         menuInicio.SetActive (false);
     }
 
-    public void Cerrar (){
+     public void Controles (){
+       // menuOpciones.SetActive (false);
+        menuOpciones.SetActive (false);
+        menuControles.SetActive (true);
+    }
+
+    public void Audio (){
+       // menuOpciones.SetActive (false);
+        menuOpciones.SetActive (false);
+        menuAudio.SetActive (true);
+    }
+
+    public void Creditos (){
+       // menuOpciones.SetActive (false);
+        menuOpciones.SetActive (false);
+        menuCreditos.SetActive (true);
+    }
+
+
+     public void CerrarOtros(){
+        menuOpciones.SetActive(true);
+        menuControles.SetActive (false);
+        menuAudio.SetActive(false);
+        menuCreditos.SetActive(false);
+
+       // menuInicio.SetActive(true);
+    }
+
+    public void CerrarOpciones (){
         menuOpciones.SetActive(false);
         menuInicio.SetActive(true);
     }

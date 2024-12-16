@@ -1,8 +1,12 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:project_psycho_hard/Assets/PSXShaderKit/Demo/Assets/materials/Cabet_Table.mat.meta
 guid: 72ead2ca03f46af4d83514f47d77d871
+========
+guid: 43050cdbb359f0144a4bf60110c464b3
+>>>>>>>> modelos_y_funciones:project_psycho_hard/Assets/Sonidos/AudioMixer.mixer.meta
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 0
+  mainObjectFileID: 24100000
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:project_psycho_hard/Assets/PSXShaderKit/Demo/PSXExample_CameraMovement.cs.meta
 guid: faf4171cb4dee5249b6795e3b9f35ff4
+========
+guid: 9f01050049faa3842916064bbeec0b36
+>>>>>>>> modelos_y_funciones:project_psycho_hard/Assets/Scripts/AgarreCarrito.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2

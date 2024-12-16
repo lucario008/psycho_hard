@@ -5,8 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class MenuInicial : MonoBehaviour
 {
-   public GameObject menuInicio;
-   public GameObject menuOpciones;
+    public GameObject menuInicio;
+    public GameObject menuOpciones;
+    public GameObject menuControles; 
+    public GameObject menuAudio; 
+    public GameObject menuCreditos; 
    
 
     // Update is called once per frame
@@ -14,6 +17,9 @@ public class MenuInicial : MonoBehaviour
     {
         menuInicio.SetActive(true);
         menuOpciones.SetActive(false); 
+        menuControles.SetActive(false);
+        menuAudio.SetActive(false);
+        menuCreditos.SetActive(false);
     }
 
      public void Jugar (){
@@ -31,7 +37,34 @@ public class MenuInicial : MonoBehaviour
         menuInicio.SetActive (false);
     }
 
-    public void Cerrar (){
+    public void Controles (){
+       // menuOpciones.SetActive (false);
+        menuOpciones.SetActive (false);
+        menuControles.SetActive (true);
+    }
+
+    public void Audio (){
+       // menuOpciones.SetActive (false);
+        menuOpciones.SetActive (false);
+        menuAudio.SetActive (true);
+    }
+
+    public void Creditos (){
+       // menuOpciones.SetActive (false);
+        menuOpciones.SetActive (false);
+        menuCreditos.SetActive (true);
+    }
+
+    public void CerrarOtros(){
+        menuOpciones.SetActive(true);
+        menuControles.SetActive (false);
+        menuAudio.SetActive(false);
+        menuCreditos.SetActive(false);
+
+       // menuInicio.SetActive(true);
+    }
+
+    public void CerrarOpciones (){
         menuOpciones.SetActive(false);
         menuInicio.SetActive(true);
     }

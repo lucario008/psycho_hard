@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:project_psycho_hard/Assets/TurboSquid_Models.meta
 guid: 33af7ae801887f144b52becd2f962455
+========
+guid: 4993ca48033d5424687bfdf02befdd28
+>>>>>>>> modelos_y_funciones:project_psycho_hard/Assets/Sonidos.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
