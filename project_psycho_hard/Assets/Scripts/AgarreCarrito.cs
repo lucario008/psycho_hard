@@ -7,6 +7,9 @@ public class AgarreCarrito : MonoBehaviour
     private SpringJoint springJoint;
     public float rangoInteraccion = 3f;
     public float fuerzaDeEmpuje = 10f;
+
+    private AudioSource chirridoSonido;
+    private Rigidbody carritoRB;
     void Start()
     {
         springJoint = GetComponent<SpringJoint>();
@@ -36,12 +39,21 @@ void Interactuar()
         {
             if (hit.collider.CompareTag("Carrito"))
             {
-                Rigidbody carritoRB = hit.collider.GetComponentInParent<Rigidbody>();
+                carritoRB = hit.collider.GetComponentInParent<Rigidbody>();
+                chirridoSonido = hit.collider.GetComponentInParent<AudioSource>();
+
                 if (carritoRB != null)
                 {
                     springJoint.connectedBody = carritoRB;
                     Debug.Log("Carrito agarrado");
                 }
+                       
+
+            if (chirridoSonido == null)
+            {
+                Debug.LogError("No se encontró AudioSource en el carrito.");
+            }
+
             }
         }
     }
@@ -53,6 +65,11 @@ void Interactuar()
             Debug.Log("Carrito soltado");
             springJoint.connectedBody = null;
         }
+
+         if (chirridoSonido != null && chirridoSonido.isPlaying)
+            {
+                chirridoSonido.Stop();
+            }
     }
 
      void FixedUpdate()
@@ -62,6 +79,23 @@ void Interactuar()
             // Empuja el carrito en la dirección hacia adelante del personaje
             Vector3 direccion = transform.forward;  // Dirección en la que está mirando el personaje
             springJoint.connectedBody.AddForce(direccion * fuerzaDeEmpuje);  // Aplica la fuerza de empuje
+
+             float velocidad = carritoRB.velocity.magnitude;
+
+            if (velocidad > 0.1f)
+            {
+                if (!chirridoSonido.isPlaying)
+                {
+                    chirridoSonido.Play();
+                }
+            }
+            else
+            {
+                if (chirridoSonido.isPlaying)
+                {
+                    chirridoSonido.Stop();
+                }
+            }
         }
     }
 

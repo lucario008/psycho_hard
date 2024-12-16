@@ -49,6 +49,8 @@ public class menuPausa : MonoBehaviour
             Cursor.visible = true; 
             Cursor.lockState = CursorLockMode.None;
 
+            AudioListener.pause = true; 
+
             if (cameraObjectX != null){
                 cameraObjectX.GetComponent<MouseLook>().enabled = false;
                 cameraObjectY.GetComponent<MouseLook>().enabled = false;
@@ -65,6 +67,8 @@ public class menuPausa : MonoBehaviour
         Time.timeScale = 1;  
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
+
+        AudioListener.pause = false; 
 
          if (cameraObjectX != null) {
             cameraObjectX.GetComponent<MouseLook>().enabled = true;
