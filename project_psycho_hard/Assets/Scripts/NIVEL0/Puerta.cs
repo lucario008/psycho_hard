@@ -30,7 +30,7 @@ public class Puerta : MonoBehaviour, IOperable
     
         Debug.Log("Estado inicial de la puerta: Cerrada");
 
-         anim = GetComponent<Animator>();
+         anim = GetComponentInParent<Animator>();
          open = anim.GetBool("Open");
     } 
 

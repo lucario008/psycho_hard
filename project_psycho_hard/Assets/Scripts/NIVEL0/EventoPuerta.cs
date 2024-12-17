@@ -14,7 +14,7 @@ public class EventoPuerta : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        animator = GetComponent<Animator>();
+        animator = GetComponentInParent<Animator>();
         close = animator.GetBool("Open");
     }
 
