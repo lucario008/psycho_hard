@@ -32,6 +32,7 @@ public class EventoPuerta : MonoBehaviour
   
             gameObject.SetActive(false); // Desactiva el objeto
             SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);
+            
         
     }
 }

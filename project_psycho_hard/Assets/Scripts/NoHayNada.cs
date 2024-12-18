@@ -7,7 +7,7 @@ public class NoHayNada : MonoBehaviour, IOperable
 {
 
    public string[] mensajes = {
-      "Nada de nada", "No hay nada", "Pura basura", "¡Oh! ... Nada"
+      "Nada de nada", "No hay nada", "¡Oh! ... Nada"
    }; 
 
    public TMPro.TextMeshProUGUI mensajeTexto;
