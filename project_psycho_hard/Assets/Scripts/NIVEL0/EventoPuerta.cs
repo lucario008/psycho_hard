@@ -11,6 +11,10 @@ public class EventoPuerta : MonoBehaviour
      
      [SerializeField] private Puerta puerta;
 
+    [SerializeField] private GameObject objetoAMover; // Objeto que se moverá
+    [SerializeField] private Vector3 nuevaPosicion;  // Nueva posición deseada
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -29,6 +33,12 @@ public class EventoPuerta : MonoBehaviour
     private void OnTriggerExit(Collider other){
         
             Debug.Log("Player ha salido del trigger.");
+
+            if (objetoAMover != null)
+        {
+            objetoAMover.transform.position = nuevaPosicion;
+            Debug.Log("Objeto movido a la nueva posición.");
+        }
   
             gameObject.SetActive(false); // Desactiva el objeto
             SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);
