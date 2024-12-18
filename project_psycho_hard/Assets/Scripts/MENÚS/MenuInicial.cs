@@ -8,7 +8,7 @@ public class MenuInicial : MonoBehaviour
     public GameObject menuInicio;
     public GameObject menuOpciones;
     public GameObject menuControles; 
-    public GameObject menuAudio; 
+   // public GameObject menuAudio; 
     public GameObject menuCreditos; 
    
 
@@ -18,7 +18,7 @@ public class MenuInicial : MonoBehaviour
         menuInicio.SetActive(true);
         menuOpciones.SetActive(false); 
         menuControles.SetActive(false);
-        menuAudio.SetActive(false);
+      //  menuAudio.SetActive(false);
         menuCreditos.SetActive(false);
     }
 
@@ -43,11 +43,11 @@ public class MenuInicial : MonoBehaviour
         menuControles.SetActive (true);
     }
 
-    public void Audio (){
+   /* public void Audio (){
        // menuOpciones.SetActive (false);
         menuOpciones.SetActive (false);
         menuAudio.SetActive (true);
-    }
+    }*/
 
     public void Creditos (){
        // menuOpciones.SetActive (false);
@@ -58,7 +58,7 @@ public class MenuInicial : MonoBehaviour
     public void CerrarOtros(){
         menuOpciones.SetActive(true);
         menuControles.SetActive (false);
-        menuAudio.SetActive(false);
+      //  menuAudio.SetActive(false);
         menuCreditos.SetActive(false);
 
        // menuInicio.SetActive(true);
