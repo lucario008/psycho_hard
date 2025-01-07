@@ -14,7 +14,6 @@ public class Clipboard : MonoBehaviour
     {
         anim = GetComponent<Animator>();
         subir = anim.GetBool("Subir");
-        subir = false; 
     }
 
 
