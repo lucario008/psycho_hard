@@ -10,10 +10,13 @@ public class AgarreCarrito : MonoBehaviour
 
     private AudioSource chirridoSonido;
     private Rigidbody carritoRB;
+
+    public GameObject manos; 
     void Start()
     {
         springJoint = GetComponent<SpringJoint>();
         springJoint.connectedBody = null;  // No conectado al iniciar
+        manos.SetActive(false);
         FixedUpdate();
     }
 
@@ -27,7 +30,8 @@ public class AgarreCarrito : MonoBehaviour
         else if (Input.GetKeyDown(KeyCode.Q) || Input.GetMouseButtonDown(1))
         {
             SoltarObjeto();
-          //  Debug.Log ("Carrito soltado");
+         
+            //  Debug.Log ("Carrito soltado");
         }
     }
 
@@ -41,6 +45,8 @@ void Interactuar()
             {
                 carritoRB = hit.collider.GetComponentInParent<Rigidbody>();
                 chirridoSonido = hit.collider.GetComponentInParent<AudioSource>();
+
+                manos.SetActive(true);
 
                 if (carritoRB != null)
                 {
@@ -64,6 +70,8 @@ void Interactuar()
         {
             Debug.Log("Carrito soltado");
             springJoint.connectedBody = null;
+
+            manos.SetActive(false);
         }
 
          if (chirridoSonido != null && chirridoSonido.isPlaying)

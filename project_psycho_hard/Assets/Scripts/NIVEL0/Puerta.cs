@@ -11,7 +11,11 @@ public class Puerta : MonoBehaviour, IOperable
 
     public TMPro.TextMeshProUGUI mensajeTexto;
     public string mensajePuerta;
-    public float tiempoVisible = 2f; 
+    public float tiempoVisible = 2f;
+
+    public AudioSource puertaBloqueada;
+    public AudioSource puertaDesbloqueada;
+    public AudioSource puerta;
     private enum Estado
     {
         Cerrada,
@@ -57,9 +61,12 @@ public class Puerta : MonoBehaviour, IOperable
         if (estadoActual == Estado.Llave2Insertada)
         {
             AbrirPuerta();
+            puertaDesbloqueada.Play();
+
         } else if (estadoActual == Estado.Abierta){
             open = !open;
             anim.SetBool("Open", open);
+            puerta.Play();
         }
         else
         {
@@ -68,6 +75,8 @@ public class Puerta : MonoBehaviour, IOperable
             mensajePuerta = "Cerrada. Necesito dos llaves, estaban en su despacho.";
                     ActualizarTexto(mensajePuerta); 
                     StartCoroutine(DesaparecerTexto());
+
+                    puertaBloqueada.Play();
         }
     }
 
