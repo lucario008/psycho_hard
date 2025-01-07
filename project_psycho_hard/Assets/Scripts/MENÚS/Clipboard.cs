@@ -1,17 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.ProBuilder.MeshOperations;
 using static UnityEditor.ShaderData;
 
 public class Clipboard : MonoBehaviour
 {
 
-    public GameObject ObjetoMenuClipboard;
+    private Animator anim;
+    private bool subir;
 
-    public GameObject cameraObjectX;
-    public GameObject cameraObjectY;
-
-    public bool Pausa = false;
+    private void Start()
+    {
+        anim = GetComponent<Animator>();
+        subir = anim.GetBool("Subir");
+        subir = false; 
+    }
 
 
     // Update is called once per frame
@@ -19,50 +23,15 @@ public class Clipboard : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Tab))
         {
-            if (Pausa == false)
+            if (subir)
             {
-                Pausar();
-            }
-            else
+                subir = !subir;
+                anim.SetBool("Subir", subir);
+            } else
             {
-                Resumir();
-            }
+                subir = true;
+                anim.SetBool("Subir", subir);
+;            }
+        } 
         }
     }
-
-    void Pausar()
-    {
-        Pausa = true;
-
-        ObjetoMenuClipboard.SetActive(true);
-
-        Time.timeScale = 0;
-        Cursor.visible = true;
-        Cursor.lockState = CursorLockMode.None;
-
-        if (cameraObjectX != null)
-        {
-            cameraObjectX.GetComponent<MouseLook>().enabled = false;
-            cameraObjectY.GetComponent<MouseLook>().enabled = false;
-
-        }
-    }
-
-    public void Resumir()
-    {
-        Pausa = false;
-
-        ObjetoMenuClipboard.SetActive(false);
-
-        Time.timeScale = 1;
-        Cursor.visible = false;
-        Cursor.lockState = CursorLockMode.Locked;
-
-        if (cameraObjectX != null)
-        {
-            cameraObjectX.GetComponent<MouseLook>().enabled = true;
-            cameraObjectY.GetComponent<MouseLook>().enabled = true;
-        }
-    }
-
-}
