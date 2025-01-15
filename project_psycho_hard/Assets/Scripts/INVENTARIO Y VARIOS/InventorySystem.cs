@@ -26,7 +26,7 @@ public class InventorySystem : MonoBehaviour
     private void Update()
     {
         // Si el jugador está cerca del carrito y presiona E, mostrar/ocultar el carrito
-        if (Input.GetKeyDown(KeyCode.E) && CanInteractWithCart())
+        if (Input.GetKeyDown(KeyCode.I) && CanInteractWithCart())
         {
             ToggleCartUI();
         }
@@ -46,12 +46,12 @@ public class InventorySystem : MonoBehaviour
             }
 
             // Si el jugador presiona "F", mover el objeto seleccionado
-            if (Input.GetKeyDown(KeyCode.F))
+            if (Input.GetKeyDown(KeyCode.G))
             {
                 MoveToPocketFromCart();
             }
         }
-        if (Input.GetKeyDown(KeyCode.R))
+        if (Input.GetKeyDown(KeyCode.H))
         {
             MoveToCart();
         }
