@@ -5,29 +5,32 @@ public class BasuraInteraction : MonoBehaviour, IOperable
 {
     public GameObject notePanel; // Asigna el Panel de la UI en el inspector
     public Image noteImage;      // Asigna la imagen de la nota en el inspector
+    public GameObject background;
     public Sprite noteSprite;    // Asigna el sprite de la nota en el inspector
     public AudioSource audioSource; // Asigna el AudioSource en el inspector
     private bool isPlayerNear = false;
+
 
     void Start()
     {
         // Asegúrate de que el panel esté desactivado al inicio
         if (notePanel != null)
             notePanel.SetActive(false);
+
+        background.SetActive(false);
     }
 
     public void Operate()
     {
         // Si el jugador está cerca y presiona la tecla "E"
-       // if (isPlayerNear && Input.GetKeyDown(KeyCode.E))
+       if (isPlayerNear)
         {
-            if (notePanel != null && isPlayerNear)
+            if (notePanel != null)
             {
                 // Alterna entre activar y desactivar el panel
                 bool isOpening = !notePanel.activeSelf;
                 notePanel.SetActive(isOpening);
-
-   
+                background.SetActive(isOpening);
                 // Si se activa, asigna la imagen y reproduce el sonido
                 if (isOpening)
                 {
@@ -35,7 +38,7 @@ public class BasuraInteraction : MonoBehaviour, IOperable
                     {
                         noteImage.sprite = noteSprite;
                     }
-
+                   
                     // Reproduce el sonido si hay un AudioSource asignado
                     if (audioSource != null)
                     {
@@ -57,6 +60,9 @@ public class BasuraInteraction : MonoBehaviour, IOperable
 
     public void OnTriggerExit(Collider other)
     {
+
+        background.SetActive(false);
+
         if (other.CompareTag("Player"))
         {
             isPlayerNear = false;

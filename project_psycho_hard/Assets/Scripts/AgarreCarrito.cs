@@ -11,7 +11,8 @@ public class AgarreCarrito : MonoBehaviour
     private AudioSource chirridoSonido;
     private Rigidbody carritoRB;
 
-    public GameObject manos; 
+    public GameObject manos;
+
     void Start()
     {
         springJoint = GetComponent<SpringJoint>();

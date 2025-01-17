@@ -13,6 +13,7 @@ public class EventoPuerta : MonoBehaviour
 
     [SerializeField] private GameObject objetoAMover; // Objeto que se moverá
     [SerializeField] private Vector3 nuevaPosicion;  // Nueva posición deseada
+    [SerializeField] private Vector3 nuevaRotacion;
 
 
     // Start is called before the first frame update
@@ -37,6 +38,7 @@ public class EventoPuerta : MonoBehaviour
             if (objetoAMover != null)
         {
             objetoAMover.transform.position = nuevaPosicion;
+            objetoAMover.transform.rotation = Quaternion.Euler(nuevaRotacion);
             Debug.Log("Objeto movido a la nueva posición.");
         }
   
