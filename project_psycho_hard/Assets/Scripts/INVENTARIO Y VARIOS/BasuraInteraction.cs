@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class BasuraInteraction : MonoBehaviour
+public class BasuraInteraction : MonoBehaviour, IOperable
 {
     public GameObject notePanel; // Asigna el Panel de la UI en el inspector
     public Image noteImage;      // Asigna la imagen de la nota en el inspector
@@ -16,17 +16,18 @@ public class BasuraInteraction : MonoBehaviour
             notePanel.SetActive(false);
     }
 
-    void Update()
+    public void Operate()
     {
         // Si el jugador está cerca y presiona la tecla "E"
-        if (isPlayerNear && Input.GetKeyDown(KeyCode.E))
+       // if (isPlayerNear && Input.GetKeyDown(KeyCode.E))
         {
-            if (notePanel != null)
+            if (notePanel != null && isPlayerNear)
             {
                 // Alterna entre activar y desactivar el panel
                 bool isOpening = !notePanel.activeSelf;
                 notePanel.SetActive(isOpening);
 
+   
                 // Si se activa, asigna la imagen y reproduce el sonido
                 if (isOpening)
                 {
@@ -45,16 +46,16 @@ public class BasuraInteraction : MonoBehaviour
         }
     }
 
-    private void OnTriggerEnter(Collider other)
+    public void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player")) // Asegúrate de que el jugador tenga el tag "Player"
         {
             isPlayerNear = true;
             Debug.Log("Presiona 'E' para interactuar con la basura");
         }
-    }
+    } 
 
-    private void OnTriggerExit(Collider other)
+    public void OnTriggerExit(Collider other)
     {
         if (other.CompareTag("Player"))
         {
