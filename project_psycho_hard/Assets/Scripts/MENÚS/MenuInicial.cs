@@ -11,7 +11,10 @@ public class MenuInicial : MonoBehaviour
     public GameObject menuOpciones;
     public GameObject menuControles; 
    // public GameObject menuAudio; 
-    public GameObject menuCreditos; 
+    public GameObject menuCreditos;
+
+    public Animator anim;
+    private bool activar; 
    
 
     // Update is called once per frame
@@ -22,12 +25,16 @@ public class MenuInicial : MonoBehaviour
         menuControles.SetActive(false);
       //  menuAudio.SetActive(false);
         menuCreditos.SetActive(false);
+
+       // anim = GetComponent<Animator>();
+        activar = anim.GetBool("activar");
     }
 
      public void Jugar (){
-        SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);
-        TransitionManager.Instance.LoadScene(TransitionManager.SCENE_NAME_GAME);
+        activar = true;
+        anim.SetBool("activar", activar);
     }
+
 
     public void Salir (){
         Debug.Log("Salir..."); 

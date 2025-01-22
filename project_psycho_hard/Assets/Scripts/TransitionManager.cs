@@ -90,4 +90,9 @@ public class TransitionManager : MonoBehaviour
         if (progressLabel.text != null)
             progressLabel.text = $"{progressValue * 100}%";
     }
+
+    public void Transicion()
+    {
+        SceneManager.LoadScene(1);
+    }
 }
