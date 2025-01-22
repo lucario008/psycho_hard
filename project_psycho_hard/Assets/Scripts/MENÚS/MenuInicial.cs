@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
+
 public class MenuInicial : MonoBehaviour
 {
     public GameObject menuInicio;
@@ -24,6 +26,7 @@ public class MenuInicial : MonoBehaviour
 
      public void Jugar (){
         SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);
+        TransitionManager.Instance.LoadScene(TransitionManager.SCENE_NAME_GAME);
     }
 
     public void Salir (){
