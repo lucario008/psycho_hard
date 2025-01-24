@@ -2217,8 +2217,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 19.937098, z: 15.257469}
-  m_Center: {x: 0, y: 0.32015514, z: 0.52469254}
+  m_Size: {x: 2.335678, y: 19.937098, z: 15.257469}
+  m_Center: {x: -0.66783905, y: 0.32015514, z: 0.52469254}
 --- !u!114 &147485559
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4000,7 +4000,7 @@ MonoBehaviour:
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
+  m_ScreenMatchMode: 1
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
@@ -5473,7 +5473,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 32, y: -99}
+  m_AnchoredPosition: {x: 39, y: -99}
   m_SizeDelta: {x: -1548.257, y: -1010.2982}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &539792519
@@ -7167,7 +7167,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 715, y: -484}
+  m_AnchoredPosition: {x: 695, y: -281}
   m_SizeDelta: {x: 371.743, y: 69.7018}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &660397025
@@ -8937,7 +8937,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 32, y: 43}
+  m_AnchoredPosition: {x: 39, y: 43}
   m_SizeDelta: {x: -1548.257, y: -1010.2982}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &968677972
@@ -13200,8 +13200,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.43652344, y: -6.0085}
-  m_SizeDelta: {x: 1925.1338, y: 1131.8071}
+  m_AnchoredPosition: {x: 196.0315, y: -131.2633}
+  m_SizeDelta: {x: 6831.2163, y: 3535.6519}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1551657039
 MonoBehaviour:
